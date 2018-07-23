@@ -6,6 +6,7 @@ Currently playing with:
 Grails webpack-react profile
 
 Spring Security Core Plugin 
+* https://grails-plugins.github.io/grails-spring-security-core/latest/#tutorials
 
 # Software Environment & Versions
 Developing on Ubuntu 18
